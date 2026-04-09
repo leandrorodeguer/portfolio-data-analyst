@@ -42,4 +42,4 @@ Apresentar meus projetos e habilidades na área de Dados, com foco em análise, 
 
 ## 📫 Contato
 
-- LinkedIn: [(coloque seu link aqui)](https://www.linkedin.com/in/leandrorodeguerpaulon/)
+- LinkedIn: [(link)](https://www.linkedin.com/in/leandrorodeguerpaulon/)
