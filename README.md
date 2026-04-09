@@ -8,7 +8,7 @@ Este repositório contém uma página web com meus projetos, informações profi
 
 ## 🌐 Acesse o portfólio online
 
-👉 (IMPORTANTE: depois vamos ativar o GitHub Pages)
+👉 (https://leandrorodeguer.github.io/portfolio-data-analyst/)
 
 ---
 
