@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  text-align: left;
+  text-align: center;
   margin: 40px;
 }
 
@@ -26,4 +26,9 @@ ul {
 .nav {
   display: flex;
   justify-content: flex-start;
+}
+.home__data,
+.home__address,
+.section {
+  text-align: left;
 }
