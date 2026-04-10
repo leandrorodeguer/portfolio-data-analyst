@@ -23,6 +23,7 @@ ul {
 .button:hover {
   background-color: #1a5edb;
 }
+
 .nav {
   display: flex;
   justify-content: flex-start;
