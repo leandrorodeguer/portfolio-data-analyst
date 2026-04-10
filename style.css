@@ -33,3 +33,11 @@ ul {
 .section {
   text-align: left;
 }
+
+.home__container,
+.home__data,
+.home__address,
+.section,
+.bd-container {
+  text-align: left !important;
+}
