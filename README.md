@@ -14,7 +14,7 @@ Este repositório contém uma página web com meus projetos, informações profi
 
 ## 📄 Baixar currículo
 
-👉 [Clique aqui para baixar meu currículo](./cv-leandro-rodeguer.pdf)
+👉 [Clique aqui para baixar meu currículo](./assets/docs/cv-leandro-rodeguer.pdf)
 
 ---
 
