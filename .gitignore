@@ -1,2 +1,6 @@
+# arquivos do sistema
 .DS_Store
-.vscode
+Thumbs.db
+
+# ambiente
+.env
